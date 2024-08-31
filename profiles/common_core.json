@@ -1,0 +1,528 @@
+{
+  "_id": null,
+  "created": "9999-12-31T23:59:59.999Z",
+  "updated": "9999-12-31T23:59:59.999Z",
+  "rvn": 1,
+  "wipeNumber": 9,
+  "accountId": null,
+  "profileId": "common_core",
+  "version": "",
+  "stats": {
+    "attributes": {
+      "current_mtx_platform": "Epic",
+      "undo_timeout": "min",
+      "allowed_to_send_gifts": true
+    }
+  },
+  "commandRevision": 0,
+  "items": {
+    "HomebaseBannerColor:defaultcolor12": {
+      "templateId": "HomebaseBannerColor:defaultcolor12",
+      "attributes": {},
+      "quantity": 1
+    },
+    "HomebaseBannerIcon:standardbanner18": {
+      "templateId": "HomebaseBannerIcon:standardbanner18",
+      "attributes": {
+        "creation_time": null,
+        "level": 1
+      },
+      "quantity": 1
+    },
+    "HomebaseBannerColor:defaultcolor5": {
+      "templateId": "HomebaseBannerColor:defaultcolor5",
+      "attributes": {},
+      "quantity": 1
+    },
+    "HomebaseBannerColor:defaultcolor31": {
+      "templateId": "HomebaseBannerColor:defaultcolor31",
+      "attributes": {},
+      "quantity": 1
+    },
+    "HomebaseBannerColor:defaultcolor25": {
+      "templateId": "HomebaseBannerColor:defaultcolor25",
+      "attributes": {},
+      "quantity": 1
+    },
+    "HomebaseBannerColor:defaultcolor16": {
+      "templateId": "HomebaseBannerColor:defaultcolor16",
+      "attributes": {},
+      "quantity": 1
+    },
+    "HomebaseBannerIcon:standardbanner14": {
+      "templateId": "HomebaseBannerIcon:standardbanner14",
+      "attributes": {
+        "creation_time": null,
+        "level": 1
+      },
+      "quantity": 1
+    },
+    "HomebaseBannerIcon:standardbanner31": {
+      "templateId": "HomebaseBannerIcon:standardbanner31",
+      "attributes": {
+        "creation_time": null,
+        "level": 1
+      },
+      "quantity": 1
+    },
+    "HomebaseBannerIcon:standardbanner4": {
+      "templateId": "HomebaseBannerIcon:standardbanner4",
+      "attributes": {
+        "creation_time": null,
+        "level": 1
+      },
+      "quantity": 1
+    },
+    "HomebaseBannerIcon:standardbanner16": {
+      "templateId": "HomebaseBannerIcon:standardbanner16",
+      "attributes": {
+        "creation_time": null,
+        "level": 1
+      },
+      "quantity": 1
+    },
+    "HomebaseBannerIcon:standardbanner21": {
+      "templateId": "HomebaseBannerIcon:standardbanner21",
+      "attributes": {
+        "creation_time": null,
+        "level": 1
+      },
+      "quantity": 1
+    },
+    "HomebaseBannerColor:defaultcolor18": {
+      "templateId": "HomebaseBannerColor:defaultcolor18",
+      "attributes": {},
+      "quantity": 1
+    },
+    "HomebaseBannerIcon:standardbanner5": {
+      "templateId": "HomebaseBannerIcon:standardbanner5",
+      "attributes": {
+        "creation_time": null,
+        "level": 1
+      },
+      "quantity": 1
+    },
+    "HomebaseBannerIcon:standardbanner26": {
+      "templateId": "HomebaseBannerIcon:standardbanner26",
+      "attributes": {
+        "creation_time": null,
+        "level": 1
+      },
+      "quantity": 1
+    },
+    "HomebaseBannerColor:defaultcolor15": {
+      "templateId": "HomebaseBannerColor:defaultcolor15",
+      "attributes": {},
+      "quantity": 1
+    },
+    "HomebaseBannerColor:defaultcolor44": {
+      "templateId": "HomebaseBannerColor:defaultcolor44",
+      "attributes": {},
+      "quantity": 1
+    },
+    "HomebaseBannerColor:defaultcolor39": {
+      "templateId": "HomebaseBannerColor:defaultcolor39",
+      "attributes": {},
+      "quantity": 1
+    },
+    "HomebaseBannerIcon:standardbanner6": {
+      "templateId": "HomebaseBannerIcon:standardbanner6",
+      "attributes": {
+        "creation_time": null,
+        "level": 1
+      },
+      "quantity": 1
+    },
+    "HomebaseBannerIcon:standardbanner28": {
+      "templateId": "HomebaseBannerIcon:standardbanner28",
+      "attributes": {
+        "creation_time": null,
+        "level": 1
+      },
+      "quantity": 1
+    },
+    "HomebaseBannerColor:defaultcolor36": {
+      "templateId": "HomebaseBannerColor:defaultcolor36",
+      "attributes": {},
+      "quantity": 1
+    },
+    "HomebaseBannerIcon:standardbanner29": {
+      "templateId": "HomebaseBannerIcon:standardbanner29",
+      "attributes": {
+        "creation_time": null,
+        "level": 1
+      },
+      "quantity": 1
+    },
+    "HomebaseBannerColor:defaultcolor7": {
+      "templateId": "HomebaseBannerColor:defaultcolor7",
+      "attributes": {},
+      "quantity": 1
+    },
+    "HomebaseBannerColor:defaultcolor10": {
+      "templateId": "HomebaseBannerColor:defaultcolor10",
+      "attributes": {},
+      "quantity": 1
+    },
+    "HomebaseBannerColor:defaultcolor23": {
+      "templateId": "HomebaseBannerColor:defaultcolor23",
+      "attributes": {},
+      "quantity": 1
+    },
+    "HomebaseBannerColor:defaultcolor22": {
+      "templateId": "HomebaseBannerColor:defaultcolor22",
+      "attributes": {},
+      "quantity": 1
+    },
+    "HomebaseBannerColor:defaultcolor24": {
+      "templateId": "HomebaseBannerColor:defaultcolor24",
+      "attributes": {},
+      "quantity": 1
+    },
+    "HomebaseBannerIcon:standardbanner13": {
+      "templateId": "HomebaseBannerIcon:standardbanner13",
+      "attributes": {
+        "creation_time": null,
+        "level": 1
+      },
+      "quantity": 1
+    },
+    "HomebaseBannerColor:defaultcolor35": {
+      "templateId": "HomebaseBannerColor:defaultcolor35",
+      "attributes": {},
+      "quantity": 1
+    },
+    "HomebaseBannerIcon:standardbanner27": {
+      "templateId": "HomebaseBannerIcon:standardbanner27",
+      "attributes": {
+        "creation_time": null,
+        "level": 1
+      },
+      "quantity": 1
+    },
+    "HomebaseBannerColor:defaultcolor29": {
+      "templateId": "HomebaseBannerColor:defaultcolor29",
+      "attributes": {},
+      "quantity": 1
+    },
+    "HomebaseBannerIcon:brskirmishbushbandits": {
+      "templateId": "HomebaseBannerIcon:brskirmishbushbandits",
+      "attributes": {
+        "creation_time": null,
+        "level": 1
+      },
+      "quantity": 1
+    },
+    "HomebaseBannerColor:defaultcolor38": {
+      "templateId": "HomebaseBannerColor:defaultcolor38",
+      "attributes": {},
+      "quantity": 1
+    },
+    "HomebaseBannerIcon:brskirmishdustydogs": {
+      "templateId": "HomebaseBannerIcon:brskirmishdustydogs",
+      "attributes": {
+        "creation_time": null,
+        "level": 1
+      },
+      "quantity": 1
+    },
+    "HomebaseBannerIcon:standardbanner10": {
+      "templateId": "HomebaseBannerIcon:standardbanner10",
+      "attributes": {
+        "creation_time": null,
+        "level": 1
+      },
+      "quantity": 1
+    },
+    "HomebaseBannerColor:defaultcolor26": {
+      "templateId": "HomebaseBannerColor:defaultcolor26",
+      "attributes": {},
+      "quantity": 1
+    },
+    "HomebaseBannerColor:defaultcolor40": {
+      "templateId": "HomebaseBannerColor:defaultcolor40",
+      "attributes": {},
+      "quantity": 1
+    },
+    "HomebaseBannerColor:defaultcolor3": {
+      "templateId": "HomebaseBannerColor:defaultcolor3",
+      "attributes": {},
+      "quantity": 1
+    },
+    "HomebaseBannerIcon:standardbanner20": {
+      "templateId": "HomebaseBannerIcon:standardbanner20",
+      "attributes": {
+        "creation_time": null,
+        "level": 1
+      },
+      "quantity": 1
+    },
+    "HomebaseBannerIcon:standardbanner2": {
+      "templateId": "HomebaseBannerIcon:standardbanner2",
+      "attributes": {
+        "creation_time": null,
+        "level": 1
+      },
+      "quantity": 1
+    },
+    "HomebaseBannerColor:defaultcolor13": {
+      "templateId": "HomebaseBannerColor:defaultcolor13",
+      "attributes": {},
+      "quantity": 1
+    },
+    "HomebaseBannerColor:defaultcolor1": {
+      "templateId": "HomebaseBannerColor:defaultcolor1",
+      "attributes": {},
+      "quantity": 1
+    },
+    "HomebaseBannerColor:defaultcolor21": {
+      "templateId": "HomebaseBannerColor:defaultcolor21",
+      "attributes": {},
+      "quantity": 1
+    },
+    "HomebaseBannerColor:defaultcolor33": {
+      "templateId": "HomebaseBannerColor:defaultcolor33",
+      "attributes": {},
+      "quantity": 1
+    },
+    "HomebaseBannerColor:defaultcolor2": {
+      "templateId": "HomebaseBannerColor:defaultcolor2",
+      "attributes": {},
+      "quantity": 1
+    },
+    "HomebaseBannerIcon:standardbanner25": {
+      "templateId": "HomebaseBannerIcon:standardbanner25",
+      "attributes": {
+        "creation_time": null,
+        "level": 1
+      },
+      "quantity": 1
+    },
+    "HomebaseBannerColor:defaultcolor4": {
+      "templateId": "HomebaseBannerColor:defaultcolor4",
+      "attributes": {},
+      "quantity": 1
+    },
+    "HomebaseBannerColor:defaultcolor32": {
+      "templateId": "HomebaseBannerColor:defaultcolor32",
+      "attributes": {},
+      "quantity": 1
+    },
+    "HomebaseBannerColor:defaultcolor42": {
+      "templateId": "HomebaseBannerColor:defaultcolor42",
+      "attributes": {},
+      "quantity": 1
+    },
+    "HomebaseBannerColor:defaultcolor17": {
+      "templateId": "HomebaseBannerColor:defaultcolor17",
+      "attributes": {},
+      "quantity": 1
+    },
+    "HomebaseBannerIcon:standardbanner1": {
+      "templateId": "HomebaseBannerIcon:standardbanner1",
+      "attributes": {
+        "creation_time": null,
+        "level": 1
+      },
+      "quantity": 1
+    },
+    "HomebaseBannerIcon:standardbanner22": {
+      "templateId": "HomebaseBannerIcon:standardbanner22",
+      "attributes": {
+        "creation_time": null,
+        "level": 1
+      },
+      "quantity": 1
+    },
+    "HomebaseBannerColor:defaultcolor20": {
+      "templateId": "HomebaseBannerColor:defaultcolor20",
+      "attributes": {},
+      "quantity": 1
+    },
+    "HomebaseBannerColor:defaultcolor6": {
+      "templateId": "HomebaseBannerColor:defaultcolor6",
+      "attributes": {},
+      "quantity": 1
+    },
+    "HomebaseBannerColor:defaultcolor11": {
+      "templateId": "HomebaseBannerColor:defaultcolor11",
+      "attributes": {},
+      "quantity": 1
+    },
+    "HomebaseBannerColor:defaultcolor19": {
+      "templateId": "HomebaseBannerColor:defaultcolor19",
+      "attributes": {},
+      "quantity": 1
+    },
+    "HomebaseBannerColor:defaultcolor30": {
+      "templateId": "HomebaseBannerColor:defaultcolor30",
+      "attributes": {},
+      "quantity": 1
+    },
+    "HomebaseBannerIcon:standardbanner7": {
+      "templateId": "HomebaseBannerIcon:standardbanner7",
+      "attributes": {
+        "creation_time": null,
+        "level": 1
+      },
+      "quantity": 1
+    },
+    "HomebaseBannerColor:defaultcolor27": {
+      "templateId": "HomebaseBannerColor:defaultcolor27",
+      "attributes": {},
+      "quantity": 1
+    },
+    "HomebaseBannerColor:defaultcolor34": {
+      "templateId": "HomebaseBannerColor:defaultcolor34",
+      "attributes": {},
+      "quantity": 1
+    },
+    "HomebaseBannerIcon:standardbanner30": {
+      "templateId": "HomebaseBannerIcon:standardbanner30",
+      "attributes": {
+        "creation_time": null,
+        "level": 1
+      },
+      "quantity": 1
+    },
+    "HomebaseBannerIcon:standardbanner23": {
+      "templateId": "HomebaseBannerIcon:standardbanner23",
+      "attributes": {
+        "creation_time": null,
+        "level": 1
+      },
+      "quantity": 1
+    },
+    "HomebaseBannerColor:defaultcolor43": {
+      "templateId": "HomebaseBannerColor:defaultcolor43",
+      "attributes": {},
+      "quantity": 1
+    },
+    "HomebaseBannerIcon:standardbanner11": {
+      "templateId": "HomebaseBannerIcon:standardbanner11",
+      "attributes": {
+        "creation_time": null,
+        "level": 1
+      },
+      "quantity": 1
+    },
+    "HomebaseBannerIcon:standardbanner15": {
+      "templateId": "HomebaseBannerIcon:standardbanner15",
+      "attributes": {
+        "creation_time": null,
+        "level": 1
+      },
+      "quantity": 1
+    },
+    "HomebaseBannerIcon:brskirmishluckyllamas": {
+      "templateId": "HomebaseBannerIcon:brskirmishluckyllamas",
+      "attributes": {
+        "creation_time": null,
+        "level": 1
+      },
+      "quantity": 1
+    },
+    "HomebaseBannerColor:defaultcolor14": {
+      "templateId": "HomebaseBannerColor:defaultcolor14",
+      "attributes": {},
+      "quantity": 1
+    },
+    "HomebaseBannerIcon:standardbanner8": {
+      "templateId": "HomebaseBannerIcon:standardbanner8",
+      "attributes": {
+        "creation_time": null,
+        "level": 1
+      },
+      "quantity": 1
+    },
+    "HomebaseBannerIcon:standardbanner17": {
+      "templateId": "HomebaseBannerIcon:standardbanner17",
+      "attributes": {
+        "creation_time": null,
+        "level": 1
+      },
+      "quantity": 1
+    },
+    "HomebaseBannerColor:defaultcolor41": {
+      "templateId": "HomebaseBannerColor:defaultcolor41",
+      "attributes": {},
+      "quantity": 1
+    },
+    "HomebaseBannerIcon:standardbanner9": {
+      "templateId": "HomebaseBannerIcon:standardbanner9",
+      "attributes": {
+        "creation_time": null,
+        "level": 1
+      },
+      "quantity": 1
+    },
+    "HomebaseBannerIcon:brskirmishriftraiders": {
+      "templateId": "HomebaseBannerIcon:brskirmishriftraiders",
+      "attributes": {
+        "creation_time": null,
+        "level": 1
+      },
+      "quantity": 1
+    },
+    "HomebaseBannerIcon:standardbanner3": {
+      "templateId": "HomebaseBannerIcon:standardbanner3",
+      "attributes": {
+        "creation_time": null,
+        "level": 1
+      },
+      "quantity": 1
+    },
+    "HomebaseBannerIcon:standardbanner24": {
+      "templateId": "HomebaseBannerIcon:standardbanner24",
+      "attributes": {
+        "creation_time": null,
+        "level": 1
+      },
+      "quantity": 1
+    },
+    "HomebaseBannerIcon:standardbanner19": {
+      "templateId": "HomebaseBannerIcon:standardbanner19",
+      "attributes": {
+        "creation_time": null,
+        "level": 1
+      },
+      "quantity": 1
+    },
+    "HomebaseBannerColor:defaultcolor8": {
+      "templateId": "HomebaseBannerColor:defaultcolor8",
+      "attributes": {},
+      "quantity": 1
+    },
+    "HomebaseBannerColor:defaultcolor28": {
+      "templateId": "HomebaseBannerColor:defaultcolor28",
+      "attributes": {},
+      "quantity": 1
+    },
+    "HomebaseBannerIcon:standardbanner12": {
+      "templateId": "HomebaseBannerIcon:standardbanner12",
+      "attributes": {
+        "creation_time": null,
+        "level": 1
+      },
+      "quantity": 1
+    },
+    "HomebaseBannerIcon:brskirmishfortknights": {
+      "templateId": "HomebaseBannerIcon:brskirmishfortknights",
+      "attributes": {
+        "creation_time": null,
+        "level": 1
+      },
+      "quantity": 1
+    },
+    "HomebaseBannerColor:defaultcolor9": {
+      "templateId": "HomebaseBannerColor:defaultcolor9",
+      "attributes": {},
+      "quantity": 1
+    },
+    "HomebaseBannerColor:defaultcolor37": {
+      "templateId": "HomebaseBannerColor:defaultcolor37",
+      "attributes": {},
+      "quantity": 1
+    }
+  }
+}

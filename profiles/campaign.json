@@ -1,0 +1,142 @@
+{
+  "_id": null,
+  "created": "9999-12-31T23:59:59.999Z",
+  "updated": "9999-12-31T23:59:59.999Z",
+  "rvn": 1,
+  "wipeNumber": 9,
+  "accountId": null,
+  "profileId": "campaign",
+  "version": "",
+  "stats": {
+    "attributes": {
+      "mission_alert_redemption_record": {
+        "lastClaimedGuidPerTheater": null,
+        "lastClaimTimesMap": null
+      },
+      "loadouts": [
+        "CosmeticLocker:cosmeticlocker_stw"
+      ],
+      "level": 1,
+      "last_applied_loadout": null
+    }
+  },
+  "commandRevision": 0,
+  "items": {
+    "Schematic:sid_assault_auto_c_ore_t00": {
+      "templateId": "Schematic:sid_assault_auto_c_ore_t00",
+      "attributes": {
+        "level": 1
+      },
+      "quantity": 1
+    },
+    "Schematic:ammo_bulletsheavy": {
+      "templateId": "Schematic:ammo_bulletsheavy",
+      "attributes": {
+        "level": 1
+      },
+      "quantity": 1
+    },
+    "CampaignHeroLoadout:defaultloadout": {
+      "templateId": "CampaignHeroLoadout:defaultloadout",
+      "attributes": {
+        "level": 1,
+        "crew_members": {
+          "followerslot5": "",
+          "followerslot4": "",
+          "followerslot3": "",
+          "followerslot2": "",
+          "followerslot1": "",
+          "commanderslot": "Hero:hid_commando_grenadegun_uc_t01"
+        },
+        "loadout_index": 0
+      },
+      "quantity": 1
+    },
+    "HomebaseNode:startnode_commandcenter": {
+      "templateId": "HomebaseNode:startnode_commandcenter",
+      "attributes": {},
+      "quantity": 1
+    },
+    "CosmeticLocker:cosmeticlocker_stw": {
+      "templateId": "CosmeticLocker:cosmeticlocker_stw",
+      "attributes": {
+        "locker_slots_data": {
+          "slots": {
+            "Dance": {
+              "items": [
+                "AthenaDance:eid_dancemoves",
+                null,
+                null,
+                null,
+                null,
+                null
+              ],
+              "activeVariants": [
+                null,
+                null,
+                null,
+                null,
+                null,
+                null
+              ]
+            },
+            "Pickaxe": {
+              "items": [
+                "AthenaPickaxe:pickaxe_id_stw001_tier_1"
+              ]
+            },
+            "MusicPack": {
+              "items": [
+                "AthenaMusicPack:musicpack_000_stw_default"
+              ]
+            },
+            "Backpack": {
+              "items": [
+                "AthenaBackpack:bid_stwhero"
+              ]
+            }
+          }
+        }
+      },
+      "quantity": 1
+    },
+    "Schematic:ammo_shells": {
+      "templateId": "Schematic:ammo_shells",
+      "attributes": {
+        "level": 1
+      },
+      "quantity": 1
+    },
+    "Schematic:ammo_bulletslight": {
+      "templateId": "Schematic:ammo_bulletslight",
+      "attributes": {
+        "level": 1
+      },
+      "quantity": 1
+    },
+    "Hero:hid_commando_grenadegun_uc_t01": {
+      "templateId": "Hero:hid_commando_grenadegun_uc_t01",
+      "attributes": {
+        "hero_name": "DefaultHeroName",
+        "level": 1,
+        "squad_slot_idx": -1,
+        "building_slot_used": -1
+      },
+      "quantity": 1
+    },
+    "Schematic:ammo_explosive": {
+      "templateId": "Schematic:ammo_explosive",
+      "attributes": {
+        "level": 1
+      },
+      "quantity": 1
+    },
+    "Schematic:ammo_bulletsmedium": {
+      "templateId": "Schematic:ammo_bulletsmedium",
+      "attributes": {
+        "level": 1
+      },
+      "quantity": 1
+    }
+  }
+}

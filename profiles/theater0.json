@@ -1,0 +1,15 @@
+{
+  "_id": null,
+  "created": "9999-12-31T23:59:59.999Z",
+  "updated": "9999-12-31T23:59:59.999Z",
+  "rvn": 1,
+  "wipeNumber": 9,
+  "accountId": null,
+  "profileId": "theater0",
+  "version": "",
+  "stats": {
+    "attributes": {}
+  },
+  "commandRevision": 0,
+  "items": {}
+}

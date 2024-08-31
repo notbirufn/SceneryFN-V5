@@ -1,0 +1,111 @@
+{
+  "_id": null,
+  "created": "9999-12-31T23:59:59.999Z",
+  "updated": "9999-12-31T23:59:59.999Z",
+  "rvn": 1,
+  "wipeNumber": 5,
+  "accountId": null,
+  "profileId": "athena",
+  "version": null,
+  "stats": {
+    "attributes": {
+      "habanero_unlocked": false,
+      "loadouts": [
+        "CosmeticLocker:Cosmeticlocker_Athena"
+      ],
+      "level": 1,
+      "last_applied_loadout": null,
+      "book_level": 1,
+      "season_num": 31,
+      "accountLevel": 1
+    }
+  },
+  "commandRevision": 0,
+  "items": {
+    "AthenaSeason:AthenaSeason31": {
+      "templateId": "AthenaSeason:AthenaSeason31",
+      "attributes": {
+        "level": 1
+      },
+      "quantity": 1
+    },
+    "CosmeticLocker:Cosmeticlocker_Athena": {
+      "templateId": "CosmeticLocker:Cosmeticlocker_Athena",
+      "attributes": {
+        "locker_slots_data": {
+          "slots": {
+            "Dance": {
+              "items": [
+                "AthenaDance:eid_dancemoves",
+                null,
+                null,
+                null,
+                null,
+                null
+              ],
+              "activeVariants": [
+                null,
+                null,
+                null,
+                null,
+                null,
+                null
+              ]
+            },
+            "Pickaxe": {
+              "items": [
+                "AthenaPickaxe:defaultpickaxe"
+              ],
+              "activeVariants": [
+                null
+              ]
+            },
+            "Glider": {
+              "items": [
+                "AthenaGlider:defaultglider"
+              ],
+              "activeVariants": [
+                null
+              ]
+            }
+          }
+        }
+      },
+      "quantity": 1
+    },
+    "AthenaDance:EID_DanceMoves": {
+      "templateId": "AthenaDance:EID_DanceMoves",
+      "attributes": {
+        "creation_time": null,
+        "level": 1,
+        "item_seen": true
+      },
+      "quantity": 1
+    },
+    "AthenaPickaxe:DefaultPickaxe": {
+      "templateId": "AthenaPickaxe:DefaultPickaxe",
+      "attributes": {
+        "creation_time": null,
+        "level": 1,
+        "item_seen": true
+      },
+      "quantity": 1
+    },
+    "AthenaGlider:DefaultGlider": {
+      "templateId": "AthenaGlider:DefaultGlider",
+      "attributes": {
+        "creation_time": null,
+        "level": 1,
+        "item_seen": true
+      },
+      "quantity": 1
+    },
+    "VictoryCrown:DefaultVictoryCrown": {
+      "templateId": "VictoryCrown:DefaultVictoryCrown",
+      "attributes": {
+        "level": 1
+      },
+      "quantity": 1
+    }
+  }
+}
